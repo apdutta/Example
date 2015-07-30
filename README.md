@@ -1,5 +1,5 @@
 # Example
  Example content for testing
  
- - POint 1
- - point 2
+ - Point 1
+ - Point 2
